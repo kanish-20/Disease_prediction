@@ -1,0 +1,21 @@
+fever,cough,fatigue,headache,disease
+1,1,0,0,Flu
+1,1,1,1,COVID
+0,0,1,0,Anemia
+0,0,0,1,Migraine
+1,0,1,0,Typhoid
+1,0,1,1,Dengue
+0,1,1,0,Bronchitis
+0,1,0,1,Sinusitis
+1,1,1,0,Pneumonia
+0,0,1,1,Malaria
+1,0,0,0,Common Cold
+1,1,0,1,Influenza
+0,1,1,1,Tuberculosis
+0,0,0,0,Healthy
+1,0,0,1,Heat Stroke
+1,1,1,1,Swine Flu
+0,1,0,0,Allergy
+1,0,1,0,Chickenpox
+0,1,1,0,Whooping Cough
+1,1,1,0,SARS
